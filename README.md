@@ -1,4 +1,4 @@
-# 📚 `dbms_scheduler_automation` — Repo Design
+# 📚 DBMS_SCHEDULER Automation
 
 ## 🎯 Purpose
 
